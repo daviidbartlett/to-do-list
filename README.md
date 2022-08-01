@@ -1,4 +1,4 @@
-# David' llovely project
+# David's lovely project
 
 ## functions
 
